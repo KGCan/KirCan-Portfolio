@@ -1,7 +1,7 @@
 body {
   font-family: Comic Sans MS, Comic Sans, cursive;
   text-align: center;
-  background-color: rgb(43, 176, 216);
+  background-color: rgb(164, 228, 248);
 
 }
 
@@ -9,7 +9,7 @@ body {
   text-align: center;
   display: block;
   width: 100%;
-  background-color: rgb(43, 176, 216);
+  background-color: rgb(164, 228, 248);
   
 }
 
@@ -33,7 +33,7 @@ main {
 
 .profile-pic {
 	clip-path: circle();
-  width: 250px;
+  width: 225px;
 }
 
 .label {
@@ -41,7 +41,7 @@ main {
 }
 
 footer.footer {
-  background-color: rgb(43, 176, 216);
+  background-color: rgb(164, 228, 248);
 }
 
 
