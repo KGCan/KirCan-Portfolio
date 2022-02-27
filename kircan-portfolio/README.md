@@ -13,3 +13,4 @@ Personal portfolio using react
 - https://reactjs.org/docs/hooks-rules.html
 - https://react-bootstrap.github.io/components/navbar/
 - https://reactjs.org/
+- https://www.w3.org/Style/Examples/007/fonts.en.html
