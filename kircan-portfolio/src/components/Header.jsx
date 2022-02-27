@@ -7,8 +7,8 @@ import Portfolio from "./Portfolio";
 import Contact from "./Contact";
 import Resume from "./Resume";
 
-function createHeader() {
-    const [currentPage, handlePageChange] = useState("About");
+function CreateHeader() {
+    const [currentPage, handlePageChange] = useState('About');
 
     //use the renderPage method to utilize a switch statement to render the correct page
 
@@ -50,4 +50,4 @@ function createHeader() {
     );
 }
 
-export default createHeader;
+export default CreateHeader;
