@@ -60,7 +60,7 @@ Create a portfolio that showcases work samples using react. Single page applicat
 
 ## Live
 
-View the live deployed application here: 
+View the live deployed application here: https://kgcan.github.io/KirCan-Portfolio/
 
 &nbsp;
 
