@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KGCan/KirCan-Portfolio.git/static/css/main.ee80ef54.css",
+    "main.js": "/KGCan/KirCan-Portfolio.git/static/js/main.561a29d7.js",
+    "static/js/787.e539f72b.chunk.js": "/KGCan/KirCan-Portfolio.git/static/js/787.e539f72b.chunk.js",
+    "index.html": "/KGCan/KirCan-Portfolio.git/index.html",
+    "main.ee80ef54.css.map": "/KGCan/KirCan-Portfolio.git/static/css/main.ee80ef54.css.map",
+    "main.561a29d7.js.map": "/KGCan/KirCan-Portfolio.git/static/js/main.561a29d7.js.map",
+    "787.e539f72b.chunk.js.map": "/KGCan/KirCan-Portfolio.git/static/js/787.e539f72b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee80ef54.css",
+    "static/js/main.561a29d7.js"
+  ]
+}
