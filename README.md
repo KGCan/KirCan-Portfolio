@@ -11,3 +11,5 @@ Personal portfolio using react
 - https://reactjs.org/docs/dom-elements.html#style
 - https://reactjs.org/docs/introducing-jsx.html
 - https://stackoverflow.com/questions/51800827/how-to-center-tabs-with-css-and-javascript
+- https://reactjs.org/docs/hooks-rules.html
+- https://react-bootstrap.github.io/components/navbar/
