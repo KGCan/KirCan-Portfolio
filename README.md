@@ -5,11 +5,18 @@ Personal portfolio using react
 
 ---
 
+- [Preview](Preview)
 - [Concept](#concept)
 - [Goals](#goals)
 - [Technologies](#technologies)
 - [Live](#live)
 - [References](#references)
+
+&nbsp;
+
+## Preview
+
+![image](https://user-images.githubusercontent.com/88002224/155902773-fcc2fcf6-6c07-4529-8619-264ac4819ba9.png)
 
 &nbsp;
 
