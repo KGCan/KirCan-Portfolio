@@ -44,9 +44,6 @@ footer.footer {
   background-color: rgb(164, 228, 248);
 }
 
-
-
-
 @media only screen and (max-width: 1024px) {
     main {
       margin-top: 2em;
