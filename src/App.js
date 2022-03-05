@@ -1,12 +1,15 @@
 import React from 'react';
+import {Hashrouter as Router, Route} from "react-router-dom";
 import Header from './components/Header';
 import Footer from './components/Footer';
 
 function App() {
   return (
     <div>
-      <Header></Header>
-      <Footer></Footer>
+      <Router>
+        <Router exact path="/" component={Header}/>
+        <Router path="footer" component={Footer} />
+      </Router>
     </div>
   );
 }
