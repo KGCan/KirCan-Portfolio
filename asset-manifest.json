@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KirCan-Portfolio/static/css/main.f42d3eff.css",
-    "main.js": "/KirCan-Portfolio/static/js/main.9d55b144.js",
+    "main.js": "/KirCan-Portfolio/static/js/main.2d86c434.js",
     "static/js/787.e539f72b.chunk.js": "/KirCan-Portfolio/static/js/787.e539f72b.chunk.js",
     "index.html": "/KirCan-Portfolio/index.html",
     "main.f42d3eff.css.map": "/KirCan-Portfolio/static/css/main.f42d3eff.css.map",
-    "main.9d55b144.js.map": "/KirCan-Portfolio/static/js/main.9d55b144.js.map",
+    "main.2d86c434.js.map": "/KirCan-Portfolio/static/js/main.2d86c434.js.map",
     "787.e539f72b.chunk.js.map": "/KirCan-Portfolio/static/js/787.e539f72b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f42d3eff.css",
-    "static/js/main.9d55b144.js"
+    "static/js/main.2d86c434.js"
   ]
 }
