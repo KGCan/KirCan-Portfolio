@@ -1,5 +1,5 @@
-{"name":"kircan-portfolio",
-  "short_name":"kircan-portfolio",
+{ "name":"kircan-portfolio",
+"short_name":"kircan-portfolio",
   "icons":[
     {
       "src":"/android-chrome-192x192.png","sizes":"192x192",
